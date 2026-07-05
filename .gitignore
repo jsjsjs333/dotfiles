@@ -1,0 +1,15 @@
+# 白名单模式：默认忽略一切，只显式允许要跟踪的
+/*
+
+# 允许的配置目录
+!wezterm/
+!fish/
+!git/
+
+# 允许的文件
+!.gitignore
+!TokyoNight.terminal
+
+# nvim / doom / emacs 有各自的独立 git 仓库，不纳入本仓库
+# github-copilot 含认证信息，不可上传
+# uv 只是安装记录，无价值
