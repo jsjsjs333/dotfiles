@@ -10,6 +10,8 @@
 !.gitignore
 !TokyoNight.terminal
 
+!README.md
+
 # nvim / doom / emacs 有各自的独立 git 仓库，不纳入本仓库
 # github-copilot 含认证信息，不可上传
 # uv 只是安装记录，无价值
