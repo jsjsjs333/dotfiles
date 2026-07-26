@@ -4,4 +4,10 @@
 
 2. brew install --cask font-jetbrains-mono-nerd-font
 
-3. 打开wezterm
+3. brew install jenv
+
+4. curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+
+5. brew install putty
+
+6. 打开wezterm
