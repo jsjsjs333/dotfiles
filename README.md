@@ -13,3 +13,7 @@
 6. brew install --cask wezterm
 
 7. 打开wezterm
+
+8. brew install android-platform-tools
+
+
