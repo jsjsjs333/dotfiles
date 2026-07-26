@@ -10,4 +10,6 @@
 
 5. brew install putty
 
-6. 打开wezterm
+6. brew install --cask wezterm
+
+7. 打开wezterm
