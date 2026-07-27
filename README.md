@@ -16,4 +16,9 @@
 
 8. brew install android-platform-tools
 
+9. brew install neovim
+
+
+10. git clone https://github.com/jsjsjs333/nvim.git ~/.config/nvim
+
 
